@@ -169,3 +169,6 @@ the database. Based on reducing the Euclidean distance, it is
 possible to determine the speaker's identity by calculating the 
 distortion distance between two vector sets. The speaker with the lowest distortion distance is chosen to 
 be identified as the unknown person.</h4>
+
+To know more : https://github.com/theRaihann/BUET-Bus-Entrance-System-using-Voice-Recognition/blob/main/PAPER.pdf
+
