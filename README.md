@@ -1,5 +1,5 @@
 <h1 align="center">BUET Bus Entrance System using Voice Recognition</h1>
-<h4 align="justify">This project represents a text dependent voice  recognition based digital system for BUET Bus Service over the  existing conventional system to help the students. . To design, the 
+<h4 align="justify">This project represents a text dependent voice  recognition based digital system for BUET Bus Service over the  existing conventional system to help the students. To design, the 
 software part of our proposed system, MFCC is used for extracting feature of the given voice. In this algorithm, the cepstral co-efficient are calculated at Mel frequency scale.
 vector quantization and Euclidean distance methods are used for feature matching through MATLAB. Here, the pattern of a student’s voice will be compared with the patterns stored in the 
 student database in training session of the system. The quality and testing of this speaker recognition system is completed and analyzed, and we have found that when we use strong noise 
